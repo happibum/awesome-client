@@ -1,1 +1,1 @@
-console.log('Hello, C');
+console.log('Hello, C!');
